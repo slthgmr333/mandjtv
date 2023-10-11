@@ -1,7 +1,6 @@
 {
   "name": "mathematics",
   "version": "5.0.0",
-  "description": "https://discord.gg/mandjtv",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
