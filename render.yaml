@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: mandjtv
+    env: docker
+    plan: free
